@@ -1,11 +1,4 @@
 ### Hi there 👋
-#### Quant Researcher & AI Research Engineer in Finance & Programming Lecturer
-#### Interest
-- AI / Big Data
-- Finance
-
-- 📫 How to reach me: mindevtest@gmail.com
-
 <div align=center>
 
 
@@ -13,3 +6,11 @@
 
 
 </div>
+
+#### Quant Researcher ∩ AI Research Engineer in Finance ∩ Programming Lecturer
+#### Interest
+- AI / Data Science
+- Finance
+- Baseball
+
+📫 How to reach me: mindevtest@gmail.com
