@@ -13,4 +13,4 @@
 - Finance
 - Baseball
 
-📫 How to reach me: mindevtest@gmail.com
+📫 How to reach me: alswhdgus10@gmail.com
