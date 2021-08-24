@@ -5,11 +5,11 @@
 
 </div>
 
-#### Quant Researcher ∩ AI Research Engineer in Finance ∩ Programming Lecturer
+#### Lead of LikeLion US ∩ AI Quant Research Engineer in Finance ∩ Programming Lecturer
 #### Interest
 - AI / Data Science
 - Finance
-- Baseball
+- Programming Lecture
 
 📫 How to reach me: alswhdgus10@gmail.com
 
