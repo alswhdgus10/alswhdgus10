@@ -5,11 +5,12 @@
 
 </div>
 
-#### Lead of LikeLion US ∩ AI Quant Research Engineer in Finance ∩ Programming Lecturer
+#### Edu Tech ∩ AI Quant Research Engineer in Finance ∩ Programming Lecturer
 #### Interest
 - AI / Data Science
 - Finance
 - Programming Lecture
+- Edu Tech
 
 📫 How to reach me: alswhdgus10@gmail.com
 
